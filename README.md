@@ -7,7 +7,7 @@
 ## OLD version of @DaisyXBot
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](heroku.com/deploy?template=https://github.com/NidushaAmarasinghe/Daisy-OLD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NidushaAmarasinghe/Daisy-OLD)
 
 
 ## New version Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
